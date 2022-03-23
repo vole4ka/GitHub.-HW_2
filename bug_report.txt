@@ -1,0 +1,6 @@
+       Cтруктура баг репорта:
+       1.Summary
+       2.Steps_to_reproduce
+       3.Actual result
+      4.Expected result
+
